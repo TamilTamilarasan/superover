@@ -1,0 +1,28 @@
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(21, 89, 145);
+    padding: 100px;
+}
+.team{
+    background-color: rgb(231, 228, 33);
+    height: 50%;
+    width:350px ;
+    color: rgb(7, 61, 16);
+    font-size: larger;
+    float: left;
+    margin-right: 50px;
+    padding: 30px;
+
+}
+button{
+    width: 70px;
+    height: 60px;
+    background-color: rgb(199, 223, 68);
+    padding: 10;
+    margin-inline-start: 400px;
+}
+.winner{
+    background-color: rgb(205, 205, 214);
+    color: rgba(40, 17, 94, 0.288);
+}
